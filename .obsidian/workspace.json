@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "4e47f2c93e0e4f21",
+    "type": "split",
+    "children": [
+      {
+        "id": "859e195fd70f5604",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4a5fbebfbbe4028",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dec2b8c07986da86",
+    "type": "split",
+    "children": [
+      {
+        "id": "63bc4ab43e4b9772",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80d0b6589231ec39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "af4931ef1f0cce28",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#投资",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "cba788577c6aad8c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "38a9fae9e96e92b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6c7582bd2c6e7d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3221d5cd1c52636",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "d4fa3fc34ecfaf39",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "AI 的出链列表"
+            }
+          },
+          {
+            "id": "9cc8365c808053a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "d2d4d8425a28d055",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "114b4bfdcac4f320",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AI.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "AI 的大纲"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "80d0b6589231ec39",
+  "lastOpenFiles": [
+    "raw/个人信息/张文木/张文木：大国力量增殖于地区性守成消失于世界性扩张.md",
+    "raw/个人信息/张文木",
+    "raw/新闻/货币金融主权，再次被奉送给美国霸权.md",
+    "wiki/中国四大跨国能源进口通道_20260416.md",
+    "wiki/香港稳定币牌照事件分析_20260416.md",
+    "raw/形势/国为保障能源安全而构建的四大跨国能源进口通道.md",
+    "raw/形势/20260416095238_19631_25.jpg",
+    "raw/新闻/中东断油，全球紧张。中国为什么相对从容？.md",
+    "raw/气象/王笑冬：四川内江出现震群 周围200公里 未来三个月应警惕大地震.md",
+    "wiki/四川内江震群分析_20260416.md",
+    "raw/气象",
+    "wiki/个人近期观点汇总_20260416.md",
+    "raw/个人信息/逍总/20260416 个人近期观点汇总.md",
+    "raw/个人信息/逍总",
+    "raw/个人信息",
+    "wiki/中美AI差距只剩2.7%_斯坦福报告_20260416.md",
+    "wiki/分层强化学习算法总结_20260416.md",
+    "wiki/法国央行黄金库存归零_2026.md",
+    "raw/AI/分层强化学习算法的思想更贴近解决复杂的环境，为什么这个方向依然这么冷门？ - XuanAxuan 的回答.md",
+    "raw/AI/辛顿：未来这样学，做得更远.md",
+    "raw/中医/老中医讲故事：一碗水与一片湖  针灸匠聊天.md",
+    "raw/中医",
+    "AI.md",
+    "raw/AI/中美AI差距只剩2.7%！斯坦福的这份报告，美国不想看.md",
+    "raw/未命名.md",
+    "wiki/中国硫酸出口禁令对铜银供应链影响_20260415.md",
+    "wiki/中国海洋石油_2025年年报.md",
+    "wiki/贝森特美联储暂缓降息表态_20260414.md",
+    "raw/新闻/20260415133850_134639_16.jpg",
+    "wiki/法国通过文物归还简化法案_20260413.md",
+    "wiki/风起萍末_农产品的春意_20260411.md",
+    "raw/形势/风起萍末，农产品的春意.md",
+    "raw/新闻/Bessent suggests Fed should hold offon rate cuts for now amid waruncertainty见森律议的鉴于战争的不确定性，美联储应暂时搁置降息.md",
+    "raw/形势/风起萍末，农产品的春意.pdf",
+    "raw/形势/风起萍末，农产品的春意(1).pdf",
+    "raw/形势",
+    "raw/资本三流",
+    "raw/传统/file_5271648862997791.pdf",
+    "raw/卢麒元/weibo/202604/20260408095908_18218_25.jpg",
+    "raw/卢麒元/weibo/202604/20260408095908_18218_25 copy.jpg",
+    "raw/卢麒元/weibo/202512/20251202070618_37707_20.jpg",
+    "raw/卢麒元/weibo/201809/20260305081008_21447_10.jpg",
+    "raw/卢麒元/weibo/202604/20260408121150_18245_25.jpg",
+    "raw/卢麒元/weibo/202604/20260402085557_25230_10.jpg",
+    "raw/卢麒元/weibo/202604/20260402085350_25228_10.jpg",
+    "raw/卢麒元/weibo/202603/20260331144018_17553_25.jpg",
+    "未命名.canvas"
+  ]
+}
