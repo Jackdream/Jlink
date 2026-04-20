@@ -11,7 +11,7 @@
 ## 目录结构
 
 ```
-wiki/
+llm-wiki/
 ├── raw/                    # 原始来源（不可变）
 │   ├── articles/           # 文章
 │   ├── books/              # 书籍
